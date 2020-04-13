@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BIGlobalScope",
+	"pools" : [
+		 ],
+	"super" : "BIChartScope",
+	"type" : "normal" }

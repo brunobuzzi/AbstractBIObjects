@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BISplineAreaChart",
+	"pools" : [
+		 ],
+	"super" : "BIChartType",
+	"type" : "normal" }
