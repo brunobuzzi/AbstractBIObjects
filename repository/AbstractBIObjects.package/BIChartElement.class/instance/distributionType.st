@@ -1,0 +1,4 @@
+other
+distributionType
+
+	^chartDefinition distributionType

@@ -1,0 +1,4 @@
+other
+chartType
+
+	^chartDefinition chartType

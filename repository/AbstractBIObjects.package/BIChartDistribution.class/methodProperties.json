@@ -1,6 +1,25 @@
 {
 	"class" : {
-		 },
+		"instanciableDistributionSubclasses" : "brunobb 04/13/2020 14:35" },
 	"instance" : {
+		"clone" : "brunobb 04/13/2020 14:41",
+		"createDistributionReport" : "brunobb 04/13/2020 14:41",
+		"endDate" : "brunobb 04/13/2020 14:41",
+		"endDate:" : "brunobb 04/13/2020 14:42",
+		"fieldName" : "brunobb 04/13/2020 14:42",
+		"fieldName:" : "brunobb 04/13/2020 14:42",
+		"formName" : "brunobb 04/13/2020 14:42",
+		"formName:" : "brunobb 04/13/2020 14:42",
+		"hasDates" : "brunobb 04/13/2020 14:42",
+		"initialize" : "brunobb 04/13/2020 14:42",
 		"isGrouped" : "brunobb 04/13/2020 09:41",
-		"isGrouped:" : "brunobb 04/13/2020 09:41" } }
+		"isGrouped:" : "brunobb 04/13/2020 09:41",
+		"isMultiChart" : "brunobb 04/13/2020 14:42",
+		"isSingleChart" : "brunobb 04/13/2020 14:42",
+		"queryBlock" : "brunobb 04/13/2020 14:43",
+		"queryBlock:" : "brunobb 04/13/2020 14:43",
+		"selectedFieldsToRender" : "brunobb 04/13/2020 14:43",
+		"startDate" : "brunobb 04/13/2020 14:43",
+		"startDate:" : "brunobb 04/13/2020 14:43",
+		"version" : "brunobb 04/13/2020 14:43",
+		"version:" : "brunobb 04/13/2020 14:43" } }

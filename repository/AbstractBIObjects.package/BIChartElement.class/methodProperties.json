@@ -5,7 +5,21 @@
 		"instanciableDistributionSubclasses" : "brunobb 04/13/2020 08:58",
 		"newOn:" : "brunobb 04/13/2020 08:56" },
 	"instance" : {
+		"applicationName" : "brunobb 04/13/2020 14:37",
+		"applicationName:" : "brunobb 04/13/2020 14:37",
+		"atProperty:put:" : "brunobb 04/13/2020 14:37",
 		"chartDefinition" : "brunobb 04/13/2020 08:56",
 		"chartDefinition:" : "brunobb 04/13/2020 08:56",
+		"chartType" : "brunobb 04/13/2020 14:37",
+		"clone" : "brunobb 04/13/2020 14:37",
+		"distribution" : "brunobb 04/13/2020 14:38",
+		"distributionType" : "brunobb 04/13/2020 14:38",
+		"fieldName" : "brunobb 04/13/2020 14:38",
+		"getProperty:" : "brunobb 04/13/2020 14:38",
+		"initialize" : "brunobb 04/13/2020 14:38",
+		"processName" : "brunobb 04/13/2020 14:38",
+		"processName:" : "brunobb 04/13/2020 14:38",
 		"properties" : "brunobb 04/13/2020 08:56",
-		"properties:" : "brunobb 04/13/2020 08:56" } }
+		"properties:" : "brunobb 04/13/2020 08:56",
+		"scope" : "brunobb 04/13/2020 14:39",
+		"user" : "brunobb 04/13/2020 14:39" } }
