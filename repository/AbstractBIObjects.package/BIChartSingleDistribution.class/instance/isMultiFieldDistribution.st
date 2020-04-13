@@ -1,4 +1,4 @@
 other
 isMultiFieldDistribution
 
-	^distribution isMultiFieldDistribution
+	^false
