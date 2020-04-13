@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AbstractBIObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
