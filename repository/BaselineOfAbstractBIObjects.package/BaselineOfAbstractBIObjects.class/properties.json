@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAbstractBIObjects",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
