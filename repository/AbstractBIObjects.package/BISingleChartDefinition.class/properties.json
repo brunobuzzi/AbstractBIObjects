@@ -1,0 +1,20 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scope",
+		"distribution",
+		"distributionType",
+		"chartTypes",
+		"chartType",
+		"report",
+		"dateGroupName" ],
+	"name" : "BISingleChartDefinition",
+	"pools" : [
+		 ],
+	"super" : "BIChartDefinition",
+	"type" : "normal" }

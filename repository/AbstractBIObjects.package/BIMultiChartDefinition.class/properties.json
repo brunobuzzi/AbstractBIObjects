@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"singleChartDefinitions" ],
+	"name" : "BIMultiChartDefinition",
+	"pools" : [
+		 ],
+	"super" : "BIChartDefinition",
+	"type" : "normal" }
