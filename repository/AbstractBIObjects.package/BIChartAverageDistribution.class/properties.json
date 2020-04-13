@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BIGlobalScope",
+	"name" : "BIChartAverageDistribution",
 	"pools" : [
 		 ],
-	"super" : "BIChartScope",
+	"super" : "BIChartDistributionType",
 	"type" : "normal" }

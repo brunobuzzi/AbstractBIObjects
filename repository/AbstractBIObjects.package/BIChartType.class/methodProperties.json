@@ -1,5 +1,7 @@
 {
 	"class" : {
-		 },
+		"instanciableDistributionSubclasses" : "brunobb 04/13/2020 13:46" },
 	"instance" : {
-		 } }
+		"renderReport:on:" : "brunobb 04/13/2020 13:39",
+		"renderReport:on:atDiv:" : "brunobb 04/13/2020 13:39",
+		"renderReport:on:parent:" : "brunobb 04/13/2020 13:40" } }

@@ -1,0 +1,1 @@
+Each specific package should add subclasses to this class in order to define each distribution to render

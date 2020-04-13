@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BIChartHeatDistribution",
+	"pools" : [
+		 ],
+	"super" : "BIChartDistributionType",
+	"type" : "normal" }
