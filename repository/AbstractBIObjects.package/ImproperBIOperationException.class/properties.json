@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ImproperBIOperationException",
+	"pools" : [
+		 ],
+	"super" : "BIException",
+	"type" : "normal" }

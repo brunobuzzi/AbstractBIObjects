@@ -1,0 +1,17 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"definition",
+		"recursion",
+		"hasFixedDates",
+		"dashboardInstances" ],
+	"name" : "BIDashboardItemDefinition",
+	"pools" : [
+		 ],
+	"super" : "AbstractBIObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BIDashboardMonthRecursion",
+	"pools" : [
+		 ],
+	"super" : "BIDashboardRecursionDefinition",
+	"type" : "normal" }

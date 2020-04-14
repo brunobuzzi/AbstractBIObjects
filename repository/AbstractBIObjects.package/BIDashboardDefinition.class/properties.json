@@ -1,0 +1,22 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"description",
+		"isActive",
+		"items",
+		"isPrivate",
+		"owner",
+		"creationTime",
+		"chartsPerColumn",
+		"dashboardRepository" ],
+	"name" : "BIDashboardDefinition",
+	"pools" : [
+		 ],
+	"super" : "AbstractBIObject",
+	"type" : "normal" }

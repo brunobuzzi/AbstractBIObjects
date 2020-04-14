@@ -1,0 +1,20 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"itemDefinition",
+		"startDate",
+		"endDate",
+		"values",
+		"creationTime",
+		"isClosed",
+		"report" ],
+	"name" : "BIDashboardInstance",
+	"pools" : [
+		 ],
+	"super" : "AbstractBIObject",
+	"type" : "normal" }

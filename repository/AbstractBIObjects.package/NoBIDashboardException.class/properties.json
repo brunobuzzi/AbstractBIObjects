@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NoBIDashboardException",
+	"pools" : [
+		 ],
+	"super" : "BIException",
+	"type" : "normal" }
