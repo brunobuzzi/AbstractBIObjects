@@ -3,7 +3,14 @@
 		"newFor:" : "brunobb 04/13/2020 14:33",
 		"newFor:in:" : "brunobb 04/13/2020 14:34" },
 	"instance" : {
+		"clone" : "brunobb 04/14/2020 15:58",
 		"containerObject" : "brunobb 04/13/2020 14:33",
 		"containerObject:" : "brunobb 04/13/2020 14:33",
+		"hasScopeClass:" : "brunobb 04/14/2020 15:59",
+		"isClone" : "brunobb 04/14/2020 15:59",
+		"ownerName" : "brunobb 04/14/2020 15:57",
+		"parent" : "brunobb 04/14/2020 15:59",
+		"setGroupedDataFrom:for:withSerie:" : "brunobb 04/14/2020 16:01",
 		"user" : "brunobb 04/13/2020 14:33",
-		"user:" : "brunobb 04/13/2020 14:33" } }
+		"user:" : "brunobb 04/13/2020 14:33",
+		"username" : "brunobb 04/14/2020 16:00" } }
