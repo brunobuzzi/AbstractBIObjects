@@ -1,6 +1,6 @@
 other
 generateDashboardInstanceFrom: startDate to: endDate
-	"The receiver create a new instance of <BpmDashboardInstance>. If needed update the start and end date of the corresponding <BpmChartDefinition>.
+	"The receiver create a new instance of <BIDashboardInstance>. If needed update the start and end date of the corresponding <BIChartDefinition>.
 	When the Dashboard item was created <hasFixedDates> has to be set. 
 	ifTrue: start date and end date are immutable and the item will render the Chart always in the same period of time.
 	ifFalse: when the item is oudated then start and end date are changed and the item will render the Chart for the new period"
