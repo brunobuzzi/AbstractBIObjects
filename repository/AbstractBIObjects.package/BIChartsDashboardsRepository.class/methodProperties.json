@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"newOn:" : "brunobb 04/14/2020 13:29" },
+	"instance" : {
+		"chartsDefinitions" : "brunobb 04/14/2020 13:28",
+		"chartsDefinitions:" : "brunobb 04/14/2020 13:28",
+		"containerObject" : "brunobb 04/14/2020 13:29",
+		"containerObject:" : "brunobb 04/14/2020 13:29",
+		"dashboardsDefinitions" : "brunobb 04/14/2020 13:28",
+		"dashboardsDefinitions:" : "brunobb 04/14/2020 13:28",
+		"getChartsFor:" : "brunobb 04/14/2020 13:29",
+		"getChartsFor:withScope:" : "brunobb 04/14/2020 13:29",
+		"getChartsFor:withScope:satisfying:" : "brunobb 04/14/2020 13:30",
+		"getDashboardNamed:for:" : "brunobb 04/14/2020 13:31",
+		"getDashboardNamed:for:ifAbsent:" : "brunobb 04/14/2020 13:31",
+		"getDashboardsFor:" : "brunobb 04/14/2020 13:31",
+		"initialize" : "brunobb 04/14/2020 13:28",
+		"removeChart:" : "brunobb 04/14/2020 13:30",
+		"removeDashboard:" : "brunobb 04/14/2020 13:32",
+		"storeChart:" : "brunobb 04/14/2020 13:30",
+		"storeDashboard:" : "brunobb 04/14/2020 13:32" } }

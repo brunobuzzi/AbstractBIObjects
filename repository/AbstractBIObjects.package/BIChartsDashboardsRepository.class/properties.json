@@ -1,0 +1,16 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dashboardsDefinitions",
+		"chartsDefinitions",
+		"containerObject" ],
+	"name" : "BIChartsDashboardsRepository",
+	"pools" : [
+		 ],
+	"super" : "AbstractBIObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "BIDashboardConstantDefinition",
+	"pools" : [
+		 ],
+	"super" : "BIDashboardItemDefinition",
+	"type" : "normal" }
