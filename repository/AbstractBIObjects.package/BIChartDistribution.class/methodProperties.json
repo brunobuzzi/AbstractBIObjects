@@ -1,5 +1,7 @@
 {
 	"class" : {
+		"getAllComboNames" : "brunobb 04/14/2020 12:32",
+		"getComboName" : "brunobb 04/14/2020 12:32",
 		"instanciableDistributionSubclasses" : "brunobb 04/13/2020 14:35" },
 	"instance" : {
 		"clone" : "brunobb 04/13/2020 14:41",
