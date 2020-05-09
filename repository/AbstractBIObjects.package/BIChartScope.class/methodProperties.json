@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"getAllComboNames" : "brunobb 04/13/2020 14:01" },
+		"getAllComboNames" : "brunobb 04/13/2020 14:01",
+		"getComboName" : "brunobb 05/09/2020 13:29" },
 	"instance" : {
 		"getDistributionOptions" : "brunobb 04/13/2020 13:46",
 		"isFieldValuesScope" : "brunobb 05/09/2020 12:05",
