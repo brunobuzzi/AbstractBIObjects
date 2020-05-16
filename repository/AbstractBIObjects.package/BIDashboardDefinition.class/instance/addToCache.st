@@ -1,4 +1,4 @@
 repository
 addToCache
 
-	^self dashboardRepository store: self
+	^self dashboardRepository storeDashboard: self
