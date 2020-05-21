@@ -13,8 +13,7 @@
 		"isPrivate",
 		"owner",
 		"creationTime",
-		"chartsPerColumn",
-		"dashboardRepository" ],
+		"chartsPerColumn" ],
 	"name" : "BIDashboardDefinition",
 	"pools" : [
 		 ],
