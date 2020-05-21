@@ -1,16 +1,20 @@
 {
 	"class" : {
-		"newFor:" : "brunobb 04/13/2020 14:33",
-		"newFor:in:" : "brunobb 04/13/2020 14:34" },
+		"newFor:" : "brunobb 05/21/2020 12:10",
+		"newFor:in:" : "brunobb 05/21/2020 12:10" },
 	"instance" : {
-		"clone" : "brunobb 04/14/2020 15:58",
-		"containerObject" : "brunobb 04/13/2020 14:33",
-		"containerObject:" : "brunobb 04/13/2020 14:33",
-		"hasScopeClass:" : "brunobb 04/14/2020 15:59",
-		"isClone" : "brunobb 04/14/2020 15:59",
-		"ownerName" : "brunobb 04/14/2020 15:57",
-		"parent" : "brunobb 04/14/2020 15:59",
-		"setGroupedDataFrom:for:withSerie:" : "brunobb 04/14/2020 16:01",
-		"user" : "brunobb 04/13/2020 14:33",
-		"user:" : "brunobb 04/13/2020 14:33",
-		"username" : "brunobb 04/14/2020 16:00" } }
+		"clone" : "brunobb 05/21/2020 12:10",
+		"containerObject" : "brunobb 05/21/2020 12:10",
+		"containerObject:" : "brunobb 05/21/2020 12:10",
+		"description" : "brunobb 05/21/2020 12:10",
+		"description:" : "brunobb 05/21/2020 12:10",
+		"hasScopeClass:" : "brunobb 05/21/2020 12:10",
+		"isClone" : "brunobb 05/21/2020 12:10",
+		"name" : "brunobb 05/21/2020 12:10",
+		"name:" : "brunobb 05/21/2020 12:10",
+		"ownerName" : "brunobb 05/21/2020 12:10",
+		"parent" : "brunobb 05/21/2020 12:10",
+		"setGroupedDataFrom:for:withSerie:" : "brunobb 05/21/2020 12:10",
+		"user" : "brunobb 05/21/2020 12:10",
+		"user:" : "brunobb 05/21/2020 12:10",
+		"username" : "brunobb 05/21/2020 12:10" } }
