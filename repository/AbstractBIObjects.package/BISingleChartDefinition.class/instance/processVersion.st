@@ -1,4 +1,4 @@
-other
+distribution
 processVersion
 
 	^self distribution version

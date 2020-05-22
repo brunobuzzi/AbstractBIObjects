@@ -1,4 +1,4 @@
-other
+scope
 roleName
 
 	^self scope roleName

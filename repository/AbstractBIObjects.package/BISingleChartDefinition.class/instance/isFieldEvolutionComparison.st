@@ -1,0 +1,4 @@
+distribution
+isFieldEvolutionComparison
+
+	^distribution isFieldEvolutionComparison

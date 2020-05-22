@@ -1,4 +1,4 @@
-other
+distribution
 resetDateGroupNameIfNeeded
 
 	distribution ifNil: [^self].

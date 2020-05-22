@@ -1,4 +1,4 @@
-other
+scope
 isGlobalScope
 
 	^scope isGlobalScope

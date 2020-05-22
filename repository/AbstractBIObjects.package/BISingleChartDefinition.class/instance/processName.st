@@ -1,4 +1,4 @@
-other
+distribution
 processName
 
 	^self distribution processName

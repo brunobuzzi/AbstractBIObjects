@@ -1,4 +1,4 @@
-other
+distribution
 startDate
 
 	^distribution startDate

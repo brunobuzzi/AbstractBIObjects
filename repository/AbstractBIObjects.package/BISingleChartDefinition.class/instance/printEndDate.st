@@ -1,4 +1,4 @@
-other
+utilities
 printEndDate
 
 	^self distribution endDate printString

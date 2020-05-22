@@ -1,4 +1,4 @@
-other
+scope
 scopeUsername
 
 	^self scope username
