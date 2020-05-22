@@ -11,6 +11,8 @@ renderArray3Chart: aHighchart distributions: distributionCollection chartsTypes:
 	aHighchart colorAxis maxColor: '#000099'.
 	aHighchart addYAxis categories: yAxisCategories.
 	aHighchart yAxis first title text: 'Days'.
+	aHighchart yAxis first max: 6.
+	aHighchart yAxis first min: 0.
 
 	aHighchart legend enabled: false.
 	aHighchart title text: mainDistribution name.
