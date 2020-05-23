@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"newChartsJs" : "brunobb 05/23/2020 10:51",
-		"newHighcharts" : "brunobb 05/23/2020 10:52" },
+		"newChartsJsFor:" : "brunobb 05/23/2020 11:02",
+		"newHighchartsFor:" : "brunobb 05/23/2020 11:02" },
 	"instance" : {
+		"chartDefinition" : "brunobb 05/23/2020 11:01",
+		"chartDefinition:" : "brunobb 05/23/2020 11:01",
 		"name" : "brunobb 05/23/2020 10:40",
 		"name:" : "brunobb 05/23/2020 10:40" } }
