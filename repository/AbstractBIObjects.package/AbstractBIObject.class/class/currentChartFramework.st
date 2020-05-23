@@ -1,0 +1,4 @@
+other
+currentChartFramework
+
+	^BIChartFramework current
