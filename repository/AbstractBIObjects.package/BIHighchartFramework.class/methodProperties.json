@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"renderKeyValueChart:distributions:chartsTypes:atDiv:" : "brunobb 05/23/2020 10:49",
+		"renderKeyValueChart:distributions:chartsTypes:on:" : "brunobb 05/23/2020 10:48",
+		"setGroupedDataFrom:for:withSerie:" : "brunobb 05/23/2020 10:50" } }
