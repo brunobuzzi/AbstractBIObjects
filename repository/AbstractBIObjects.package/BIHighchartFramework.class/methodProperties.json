@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"render2DArrayKeyValueChart:distributions:chartsTypes:atDiv:" : "brunobb 05/23/2020 11:37",
+		"render2DArrayKeyValueChart:distributions:chartsTypes:atDiv:" : "brunobb 05/23/2020 11:53",
 		"render2DArrayKeyValueChart:distributions:chartsTypes:on:" : "brunobb 05/23/2020 11:37",
-		"renderSimpleKeyValueChart:distributions:chartsTypes:atDiv:" : "brunobb 05/23/2020 11:37",
+		"renderSimpleKeyValueChart:distributions:chartsTypes:atDiv:" : "brunobb 05/23/2020 11:50",
 		"renderSimpleKeyValueChart:distributions:chartsTypes:on:" : "brunobb 05/23/2020 11:38",
 		"setGroupedDataFrom:for:withSerie:" : "brunobb 05/23/2020 10:50",
 		"setRegularDataFrom:for:withSerie:" : "brunobb 05/23/2020 11:05" } }

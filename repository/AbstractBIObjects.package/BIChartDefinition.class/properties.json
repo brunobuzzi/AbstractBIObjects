@@ -9,7 +9,8 @@
 		"name",
 		"description",
 		"user",
-		"containerObject" ],
+		"containerObject",
+		"chartFramework" ],
 	"name" : "BIChartDefinition",
 	"pools" : [
 		 ],

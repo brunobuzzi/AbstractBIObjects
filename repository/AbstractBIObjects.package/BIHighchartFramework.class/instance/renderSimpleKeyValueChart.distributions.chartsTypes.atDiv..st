@@ -18,7 +18,7 @@ renderSimpleKeyValueChart: aHighchart distributions: distributionCollection char
 
 	distributionCollection keysAndValuesDo: [:index :eachDistribution | | serieClass |
 		serieClass := seriesClassCollection at: index.
-		self distribution isGrouped "this is used to group BarCharts (to display versions of different processes)"
+		chartDefinition distributionIsGrouped "this is used to group BarCharts (to display versions of different processes)"
 		ifFalse: [self setRegularDataFrom: eachDistribution for: aHighchart withSerie: serieClass] "<AppDistributionReport> distribution: dictionary of key and value"
 		ifTrue: [self setGroupedDataFrom: eachDistribution for: aHighchart withSerie: serieClass]. "<AppDistributionReport> distribution: dictionary of key and anArray of values"
 	]. 

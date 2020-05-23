@@ -1,7 +1,8 @@
 html render
 renderHeatmapChartDistribution: anAppDistributionReport on: html atDiv: aWADivTag
 
-	^self renderArray3Chart: html highcharts newChart 
+	^chartFramework 
+			render2DArrayKeyValueChart: html highcharts newChart  
 			distributions: (OrderedCollection with: anAppDistributionReport) 
 			chartsTypes: (OrderedCollection with: HighchartsSeriesHeatmap) 
-			atDiv: aWADivTag
+			atDiv: html

@@ -7,7 +7,7 @@ render2DArrayKeyValueChart: aHighchart distributions: distributionCollection cha
 
 	distributionCollection ifEmpty: [^self].
 
-	yAxisCategories := #('Sunday' 'Monday' 'Tuesday' 'Wednesday' 'Thursday' 'Friday' 'Saturday') collect: [:each | each translateFor: self user].
+	yAxisCategories := #('Sunday' 'Monday' 'Tuesday' 'Wednesday' 'Thursday' 'Friday' 'Saturday') collect: [:each | each translateFor: chartDefinition user].
 	
 	mainDistribution := distributionCollection at: 1.
 	aHighchart colorAxis minColor: '#ffffff'.
