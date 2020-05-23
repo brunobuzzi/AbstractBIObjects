@@ -1,4 +1,4 @@
-html render
+html highcharts
 renderArray2Chart: aHighchart distributions: distributionCollection chartsTypes: seriesClassCollection atDiv: aWADivTag
 	| mainDistribution |
 
