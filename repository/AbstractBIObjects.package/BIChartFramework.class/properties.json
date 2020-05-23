@@ -1,0 +1,14 @@
+{
+	"category" : "AbstractBIObjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "BIChartFramework",
+	"pools" : [
+		 ],
+	"super" : "AbstractBIObject",
+	"type" : "normal" }
