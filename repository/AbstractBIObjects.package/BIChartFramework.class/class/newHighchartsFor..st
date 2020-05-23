@@ -1,4 +1,4 @@
-other
+instance creation
 newHighchartsFor: aBIChartDefinition
 	
 	^BIHighchartFramework new 
