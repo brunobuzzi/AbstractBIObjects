@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"createNewDashboardDefinitionNamed:in:for:" : "brunobb 05/21/2020 10:50" },
+		"createNewDashboardDefinitionNamed:for:" : "brunobb 06/12/2020 12:18" },
 	"instance" : {
 		"addItem:" : "brunobb 05/21/2020 10:50",
 		"chartsPerColumn" : "brunobb 05/21/2020 10:50",
