@@ -1,4 +1,4 @@
 scope
 scopeUsername
 
-	^self scope username
+	^scope username

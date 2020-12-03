@@ -1,4 +1,4 @@
 scope
 roleName
 
-	^self scope roleName
+	^scope roleName

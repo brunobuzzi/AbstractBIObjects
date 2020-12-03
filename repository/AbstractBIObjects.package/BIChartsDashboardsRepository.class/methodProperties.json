@@ -1,11 +1,9 @@
 {
 	"class" : {
-		"newOn:" : "brunobb 04/14/2020 13:29" },
+		"newOn:" : "brunobb 12/03/2020 13:15" },
 	"instance" : {
 		"chartsDefinitions" : "brunobb 04/14/2020 13:28",
 		"chartsDefinitions:" : "brunobb 04/14/2020 13:28",
-		"containerObject" : "brunobb 04/14/2020 13:29",
-		"containerObject:" : "brunobb 04/14/2020 13:29",
 		"dashboardsDefinitions" : "brunobb 04/14/2020 13:28",
 		"dashboardsDefinitions:" : "brunobb 04/14/2020 13:28",
 		"getChartsFor:" : "brunobb 04/14/2020 13:29",
@@ -17,5 +15,6 @@
 		"initialize" : "brunobb 04/14/2020 13:28",
 		"removeChart:" : "brunobb 04/14/2020 13:30",
 		"removeDashboard:" : "brunobb 04/14/2020 13:32",
+		"setContainerObject:" : "brunobb 12/03/2020 13:15",
 		"storeChart:" : "brunobb 05/21/2020 13:02",
 		"storeDashboard:" : "brunobb 05/21/2020 13:03" } }
