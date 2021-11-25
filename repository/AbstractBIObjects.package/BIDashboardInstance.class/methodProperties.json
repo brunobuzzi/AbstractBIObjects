@@ -2,7 +2,6 @@
 	"class" : {
 		"newForItemDefinition:" : "brunobb 04/14/2020 13:11" },
 	"instance" : {
-		"addToCache" : "brunobb 04/14/2020 13:10",
 		"bpmEnvironment" : "brunobb 04/14/2020 13:10",
 		"creationTime" : "brunobb 04/14/2020 13:10",
 		"creationTime:" : "brunobb 04/14/2020 13:10",
@@ -27,7 +26,6 @@
 		"ownerName" : "brunobb 04/14/2020 13:10",
 		"printLastUpdate" : "brunobb 04/14/2020 13:10",
 		"printRecursionName" : "brunobb 04/14/2020 13:10",
-		"removeFromCache" : "brunobb 04/14/2020 13:10",
 		"report" : "brunobb 04/14/2020 13:10",
 		"report:" : "brunobb 04/14/2020 13:10",
 		"setChartDates" : "brunobb 04/14/2020 13:10",
