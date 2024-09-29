@@ -12,7 +12,8 @@
 		"chartTypes",
 		"chartType",
 		"report",
-		"dateGroupName" ],
+		"dateGroupName",
+		"highchartOptions" ],
 	"name" : "BISingleChartDefinition",
 	"pools" : [
 		 ],

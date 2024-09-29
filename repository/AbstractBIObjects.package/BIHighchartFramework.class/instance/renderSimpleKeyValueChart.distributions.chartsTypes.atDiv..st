@@ -22,5 +22,5 @@ renderSimpleKeyValueChart: aHighchart distributions: distributionCollection char
 		ifFalse: [self setRegularDataFrom: eachDistribution for: aHighchart withSerie: serieClass] "<AppDistributionReport> distribution: dictionary of key and value"
 		ifTrue: [self setGroupedDataFrom: eachDistribution for: aHighchart withSerie: serieClass]. "<AppDistributionReport> distribution: dictionary of key and anArray of values"
 	]. 
-
+	chartDefinition applyOptionsTo: aHighchart.
 	aWADivTag script: aHighchart
